@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate about backend programming, military, history, sports
+A passionate about programming, military, history, sports
 
 
 ## 🌐 Socials:
